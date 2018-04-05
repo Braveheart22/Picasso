@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Picasso</string>
+    <string name="picasso_image">picasso image</string>
 </resources>
